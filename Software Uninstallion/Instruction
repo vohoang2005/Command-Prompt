@@ -1,0 +1,4 @@
+Open Command Prompt
+Type: WMIC
+Type: Product Get Name
+Type: product where name="name of application" call uninstall
